@@ -1,7 +1,7 @@
 WinLinLinx
 Script for Windows navigation shortcuts inside Linux
 
-The script allows you to open Windows shortcuts (.lnk)** in Linux with the KDE (Plasma) desktop environment. It automatically extracts the path from the `.lnk` file and opens the target folder or file in the Dolphin file manager.
+The script allows you to open Windows navigation shortcuts (.lnk) in Linux with the KDE (Plasma) desktop environment. It automatically extracts the path from the `.lnk` file and opens the target folder or file in the Dolphin file manager.
 
 Цель скрипта 
 - Преобразовать путь из Windows-формата (`C:\Folder\file`) в Linux-формат (`/media/userX/C/Folder/file`)
