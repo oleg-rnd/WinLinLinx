@@ -9,6 +9,7 @@ The script allows you to open Windows navigation shortcuts (.lnk) in Linux with 
 - Поддерживать ярлыки с **кириллицей**, **пробелами** и **сложными путями**
 
 1. Установка lnkinfo
+
 `lnkinfo` — утилита из проекта `libyal/liblnk`, которая извлекает информацию из `.lnk`-файлов, включая пути с кириллицей.
 
 ```bash
