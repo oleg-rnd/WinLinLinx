@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Windows LNK Handler
+Exec=/usr/bin/bash /usr/local/bin/lnk-handler.sh %f
+Type=Application
+Terminal=false
+MimeType=application/x-ms-shortcut;
+

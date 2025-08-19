@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=LNK Handler Setup
+Comment=Ensures .lnk associations are loaded
+Exec=/bin/true
+OnlyShowIn=KDE;
+X-GNOME-Autostart-Delay=5
+X-GNOME-Autostart-enabled=true
